@@ -170,4 +170,19 @@ footer{
     background: #FFF8F3;
     margin-top: 100px ;
     padding: 130px 200px;
+    gap :100px;
+
+}
+.footer-column{
+    width : 50%;
+}
+.contact input , textarea{
+        display: block;
+        margin-bottom: 25px;
+        padding: 18px 35px;
+        color: #757575;
+        width : 100%;
+}
+.social-link a{
+    margin: 25px;
 }
